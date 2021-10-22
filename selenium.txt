@@ -1,1 +1,2 @@
 Selenium is an automation tool.
+We used this for software testing.
